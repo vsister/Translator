@@ -1,0 +1,23 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "traslation for project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsister/Translator.git"
+  },
+  "author": "Alexandra Gavrilova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsister/Translator/issues"
+  },
+  "homepage": "https://github.com/vsister/Translator#readme",
+  "dependencies": {
+    "mongoose": "^5.8.1",
+    "translate": "^1.1.0"
+  }
+}
